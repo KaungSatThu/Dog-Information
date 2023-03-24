@@ -1,0 +1,90 @@
+.head,body { 
+    padding: 0;
+    margin: 0;
+
+}
+
+.bgcolor {
+    background-color: rgb(66, 91, 112);
+}
+
+.parent {
+    
+}
+.menubar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: sticky;
+    top: 0;
+    border-bottom: 1px solid;
+    height: 100px;
+}
+
+.img1 {
+    border-radius: 200px;
+    border: 10px solid black ;
+}
+
+.fs {
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.fc {
+    color: black;
+}
+
+.menuletter {
+    display: flex;
+    align-items: center;
+}
+
+.mar {
+    margin-right: 30px;
+}
+
+.op {
+    opacity: 0.8;
+}
+
+.bodyparent { 
+    margin-top: 5px;
+    margin-left: 10px;
+    justify-content: space-between;
+}
+
+
+
+.img2 {
+    border-radius: 30px;
+    border: 5px solid gray;
+    
+    
+}
+
+.fsdog {
+    margin: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.box {
+    display: flex;
+    border: 20px;
+}
+
+.mt {
+    margin-top: 30px;
+}
+
+.bluecolor {
+    color: black;
+}
+
+.bg {
+    background-color: rgb(68, 68, 250);
+}

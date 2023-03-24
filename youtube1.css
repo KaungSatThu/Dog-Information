@@ -1,0 +1,199 @@
+.maincontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.box {
+    width: 370px;
+    margin: 20px;
+}
+
+.lb {
+    padding: 0px 20px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.lb2 {
+        background-color: white;
+        border-radius: 20px;
+    
+    
+}
+
+.menuletter {
+    padding: 20px 0px;
+}
+
+
+.img1 {
+    
+    margin-bottom: 10px;
+}
+
+.fs {
+    font-size: 13px;
+}
+
+.op {
+    opacity: 0.4;
+}
+
+.spacebetween {
+    display: flex;
+    justify-content: space-between;
+}
+
+.lastfont {
+    margin-top: 30px;
+}
+
+.lf2 {
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
+
+
+.kk {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.img4 {
+    width: 30px;
+    height: 30px;
+    
+}
+
+.fonts {
+    margin-left: 5px;
+}
+
+.img5 {
+    width:30px;
+    height: 25px;
+}
+
+.tt {
+    padding-bottom: 20px;
+}
+
+.aa {
+    margin-top: 2px;
+    font-size: 30px;
+}
+
+.color {
+    color: green;
+}
+
+.bar {
+    border-right: -30px;
+    border-top: lightgray solid 1px;
+    
+    margin: 20px 0px;   
+}
+
+.gg {
+    margin-top: 20px;
+}
+
+
+.k3 {
+    margin-top: 5px;
+}
+
+.l5 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.a9 {
+    margin-top: 20px;
+
+    padding-bottom: 20px;
+}
+
+.l2 {
+    color: blue;
+}
+
+.div4 {
+    margin-top: 30px;
+}
+
+.div5 {
+    margin-top: 10px;
+}
+
+.menuletter2 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+    
+}
+
+.img6 {
+    width: 30px;
+    height: 25px;
+    border-radius: 30px;
+    border: black solid;
+}
+
+.w {
+    width: 45px;
+    height: 20px;
+
+}
+.k5 {
+    padding-left: 40px;
+}
+
+.img7 {
+    margin-left: 20px;
+    width: 100px;
+    height: 85px;
+    border-radius: 30px;
+    border: lightslategray solid;
+}
+
+.ll {
+    padding-top: 10px;
+}
+
+.dp2 {
+    display: flex;
+}
+
+.img8 {
+    margin-top: 4px;
+}
+
+.days {
+    padding: 0px 20px;
+}
+
+.bar2 {
+    border-right: -30px;
+    border-top: lightgray solid 1px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.center {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.dd {
+    color: green;
+}
+
+
+
